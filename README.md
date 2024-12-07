@@ -9,5 +9,5 @@ https://github.com/user-attachments/assets/b795e20a-ac89-4adc-b03c-c7173248044a
 
 **Genetic Algorithm Implementation (No graphics):**
 
-https://github.com/user-attachments/assets/d8ddfa37-bb8f-494b-ab3c-853978f0c3ea
+https://github.com/user-attachments/assets/fe908986-d274-4ba9-b383-c4867e7058b9
 
